@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Km01TicTacToe</string>
+    <string name="which_turn_message">%1$s\'s Turn!</string>
+</resources>
